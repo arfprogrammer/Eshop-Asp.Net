@@ -1,0 +1,15 @@
+C:\Users\saeed\Documents\Visual Studio 2005\Projects\MMG_SHOP\Common\bin\Debug\Common.dll
+C:\Users\saeed\Documents\Visual Studio 2005\Projects\MMG_SHOP\Common\bin\Debug\Common.pdb
+C:\Users\saeed\Documents\Visual Studio 2005\Projects\MMG_SHOP\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\saeed\Documents\Visual Studio 2005\Projects\MMG_SHOP\Common\obj\Debug\Common.dll
+C:\Users\saeed\Documents\Visual Studio 2005\Projects\MMG_SHOP\Common\obj\Debug\Common.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop\Common\bin\Debug\Common.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop\Common\bin\Debug\Common.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\WebSites\MMG_Shop\Common\obj\Debug\Common.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop\Common\obj\Debug\Common.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\Common\bin\Debug\Common.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\Common\bin\Debug\Common.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\Common\obj\Debug\Common.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\Common\obj\Debug\Common.pdb

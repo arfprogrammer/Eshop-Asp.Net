@@ -1,0 +1,49 @@
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\DAL\bin\Debug\DAL.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\DAL\bin\Debug\DAL.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\DAL\bin\Debug\Common.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\DAL\bin\Debug\Common.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\DAL\obj\Debug\DAL.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\DAL\obj\Debug\DAL.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop\DAL\bin\Debug\DAL.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop\DAL\bin\Debug\DAL.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop\DAL\bin\Debug\Common.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop\DAL\bin\Debug\Common.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\WebSites\MMG_Shop\DAL\obj\Debug\DAL.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop\DAL\obj\Debug\DAL.pdb
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\bin\Debug\DAL.dll
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\bin\Debug\DAL.pdb
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\bin\Debug\Common.dll
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\bin\Debug\Common.pdb
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\obj\Debug\ResolveAssemblyReference.cache
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\obj\Debug\DAL.dll
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\obj\Debug\DAL.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\bin\Debug\DAL.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\bin\Debug\DAL.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\bin\Debug\Common.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\bin\Debug\Common.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\obj\Debug\DAL.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\DAL\obj\Debug\DAL.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\DAL\bin\Debug\DAL.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\DAL\bin\Debug\DAL.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\DAL\bin\Debug\Common.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\DAL\bin\Debug\Common.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\DAL\obj\Debug\DAL.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\DAL\obj\Debug\DAL.pdb
+D:\MMG_Shop\DAL\bin\Debug\DAL.dll
+D:\MMG_Shop\DAL\bin\Debug\DAL.pdb
+D:\MMG_Shop\DAL\bin\Debug\Common.dll
+D:\MMG_Shop\DAL\bin\Debug\Common.pdb
+D:\MMG_Shop\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\MMG_Shop\DAL\obj\Debug\DAL.dll
+D:\MMG_Shop\DAL\obj\Debug\DAL.pdb
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\DAL\bin\Debug\DAL.dll
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\DAL\bin\Debug\DAL.pdb
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\DAL\bin\Debug\Common.dll
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\DAL\bin\Debug\Common.pdb
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\DAL\obj\Debug\DAL.dll
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\DAL\obj\Debug\DAL.pdb

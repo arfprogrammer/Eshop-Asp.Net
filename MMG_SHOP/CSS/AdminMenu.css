@@ -1,0 +1,109 @@
+﻿
+#menu , #menu ul
+{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+    z-index: 100;
+
+}
+
+/* sathe aval halate normal */
+#menu li
+{
+	float: right;
+	position: relative;
+	width:96px;
+	   border-left:solid 1px #93a2d6;
+	background-color:White;
+
+}
+/* sathe aval halate hover */
+
+#menu li:hover
+{
+   background-color:Yellow;
+}
+/* sathe dovom halate normal*/
+#menu ul
+{
+	position: absolute;
+	top: 22px;
+	left: -20px;
+	width: 130px;
+	padding: 0;
+	display: none;
+	text-align:center;
+	background-image: url(../Administrator/Images/bgmenu.gif);
+}
+
+#menu ul li
+{
+text-align:center;
+	margin: 1px;
+	padding: 0;
+	width: 130px;
+    border:solid 1px #93a2d6;
+    height:20px;
+
+}
+#menu ul li:hover
+{
+}
+#menu li a:link, #menu li a:visited
+{
+	display: block;
+	font-family: Tahoma;
+	font-size: 8pt;
+	text-align: center;
+	text-decoration: none;
+	padding: 5px;
+	color:#1a4861;
+
+}
+
+#menu li a:link:hover, #menu li a:visited:hover
+{
+}
+#menu li ul li a:link, #menu li ul li a:visited
+{
+	display: block;
+	font-family: Tahoma;
+	font-size: 8pt;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+	padding:2px;
+}
+#menu li ul li a:link:hover, #menu li ul li a:visited:hover
+{
+}
+
+
+
+#menu li:hover ul.submenu
+{
+	display: block;	
+
+}
+
+#menu ul.submenu ul
+{
+	top: -2px;
+	left: -130px;
+	display: none;
+
+}
+
+#menu ul.submenu li:hover ul
+{
+	display: block;
+}
+
+.ArrowDown
+{
+    border:0px;
+    padding:0px;
+    margin-right:10px;
+}
+

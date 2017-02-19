@@ -1,0 +1,63 @@
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\BLL\bin\Debug\BLL.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\BLL\bin\Debug\BLL.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\BLL\bin\Debug\Common.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\BLL\bin\Debug\DAL.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\BLL\bin\Debug\Common.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\BLL\bin\Debug\DAL.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\BLL\obj\Debug\BLL.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop2008\BLL\obj\Debug\BLL.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop\BLL\bin\Debug\BLL.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop\BLL\bin\Debug\BLL.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop\BLL\bin\Debug\Common.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop\BLL\bin\Debug\DAL.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop\BLL\bin\Debug\Common.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop\BLL\bin\Debug\DAL.pdb
+E:\Visual Studio 2008\WebSites\MMG_Shop\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\WebSites\MMG_Shop\BLL\obj\Debug\BLL.dll
+E:\Visual Studio 2008\WebSites\MMG_Shop\BLL\obj\Debug\BLL.pdb
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\bin\Debug\BLL.dll
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\bin\Debug\BLL.pdb
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\bin\Debug\Common.dll
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\bin\Debug\DAL.dll
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\bin\Debug\Common.pdb
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\bin\Debug\DAL.pdb
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\obj\Debug\BLL.dll
+H:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\obj\Debug\BLL.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\bin\Debug\BLL.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\bin\Debug\BLL.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\bin\Debug\Common.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\bin\Debug\DAL.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\bin\Debug\Common.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\bin\Debug\DAL.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\obj\Debug\ResolveAssemblyReference.cache
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\obj\Debug\BLL.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-4-25\MMG_Shop\BLL\obj\Debug\BLL.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\BLL\bin\Debug\BLL.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\BLL\bin\Debug\BLL.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\BLL\bin\Debug\Common.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\BLL\bin\Debug\DAL.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\BLL\bin\Debug\Common.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\BLL\bin\Debug\DAL.pdb
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\BLL\obj\Debug\ResolveAssemblyReference.cache
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\BLL\obj\Debug\BLL.dll
+G:\BackUp-www.shop.mmg-soft.com\1390-5-30\MMG_Shop\BLL\obj\Debug\BLL.pdb
+D:\MMG_Shop\BLL\bin\Debug\BLL.dll
+D:\MMG_Shop\BLL\bin\Debug\BLL.pdb
+D:\MMG_Shop\BLL\bin\Debug\Common.dll
+D:\MMG_Shop\BLL\bin\Debug\DAL.dll
+D:\MMG_Shop\BLL\bin\Debug\Common.pdb
+D:\MMG_Shop\BLL\bin\Debug\DAL.pdb
+D:\MMG_Shop\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\MMG_Shop\BLL\obj\Debug\BLL.dll
+D:\MMG_Shop\BLL\obj\Debug\BLL.pdb
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\BLL\bin\Debug\BLL.dll
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\BLL\bin\Debug\BLL.pdb
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\BLL\bin\Debug\Common.dll
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\BLL\bin\Debug\DAL.dll
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\BLL\bin\Debug\Common.pdb
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\BLL\bin\Debug\DAL.pdb
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\BLL\obj\Debug\BLL.dll
+D:\www.shop.mmg-soft.com\MMG_Shop_Fainal\BLL\obj\Debug\BLL.pdb
